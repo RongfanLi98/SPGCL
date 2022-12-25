@@ -8,8 +8,6 @@ This is a Pytorch implementation of SPGCL:  Mining Spatio-temporal Relations via
 
 # Mining Spatio-temporal Relations via Self-paced Graph Contrastive Learning
 
-More details of the paper and dataset will be released after it is published.
-
 # The Code
 
 ## Requirements
